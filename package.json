@@ -2,7 +2,7 @@
 	"name": "unglue",
 	"displayName": "Unglue",
 	"description": "Unglue File Support",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"icon": "logo.png",
   "publisher": "UnglueWorkflow",
   "repository": {
