@@ -1,0 +1,37 @@
+{
+	"name": "unglue",
+	"displayName": "Unglue",
+	"description": "Unglue File Support",
+	"version": "0.0.0",
+	"icon": "logo.png",
+	"publisher": "Basil Suter",
+	"keywords": [
+		"unglue",
+        "css",
+        "scss",
+        "js",
+        "workflow",
+		"syntax"
+    ],
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [
+          {
+            "id": "unglue",
+            "extensions": [
+              ".unglue"
+            ],
+            "aliases": [
+              "unglue",
+              "Unglue"
+            ],
+            "configuration": "./unglue-configuration.json"
+          }
+        ]
+    }
+}
