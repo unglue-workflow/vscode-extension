@@ -4,7 +4,11 @@
 	"description": "Unglue File Support",
 	"version": "0.0.0",
 	"icon": "logo.png",
-	"publisher": "Basil Suter",
+  "publisher": "UnglueWorkflow",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unglue-workflow/vscode-extension.git"
+  },
 	"keywords": [
 		"unglue",
         "css",

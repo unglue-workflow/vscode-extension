@@ -7,3 +7,7 @@ An Unglue extension for Visual Studio Code
 Getting started: https://code.visualstudio.com/api/get-started/your-first-extension
 Language Extensions Example: https://github.com/Microsoft/vscode-extension-samples/tree/master/language-configuration-sample
 Language Config: https://code.visualstudio.com/api/language-extensions/language-configuration-guide
+
+Package:
+
+`npm install -g vsce` and run `vsce package`
